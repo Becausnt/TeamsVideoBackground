@@ -23,10 +23,13 @@ Move your video to the folder we opened in step two and rename it to "feelingDre
 
 ### 4. Selecting your video in a call
 In your call, activate your camera and select "Background Filters"
+
 ![image](https://github.com/user-attachments/assets/89aada08-c605-4173-9b43-ecd26fc093ce)
 
 Note that the thumbnail for your custom video will still be the default one, but select it anyway.
+
 ![image](https://github.com/user-attachments/assets/a0b9ad90-3b54-471e-a5ad-9a077b710edd)
 
 Now you should be able to see your video running in the preview window.
+
 ![image](https://github.com/user-attachments/assets/59084800-b497-4ca6-a0cf-63e925367ce9)
