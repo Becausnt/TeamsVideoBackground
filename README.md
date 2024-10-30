@@ -3,7 +3,10 @@ How to change your Teams meeting background to a custom Video or Image
 
 ## Images:
 If your Image isnt accepted by teams use this tool:
-(https://easyretro.io/tools/microsoft-teams-background-generator/)[https://easyretro.io/tools/microsoft-teams-background-generator/]
+https://easyretro.io/tools/microsoft-teams-background-generator/
+There you can upload your Image and it will scale it so teams can use it.7
+
+## Video
 ## Short version:
 1. Open the folder "%localappdata%\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\Backgrounds"
 2. Replace "feelingDreamy2Animated_v=0.1.mp4" with your own video. (Note: Your video has to be named "feelingDreamy2Animated_v=0.1.mp4")
