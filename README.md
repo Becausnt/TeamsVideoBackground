@@ -6,6 +6,7 @@ Note: Sadly doesn't work for images
 1. Open the folder "%localappdata%\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\Backgrounds"
 2. Replace "feelingDreamy2Animated_v=0.1.mp4" with your own video. (Note: Your video has to be named "feelingDreamy2Animated_v=0.1.mp4")
 3. Open teams, activate your camera and select the below Background:
+   
 ![image](https://github.com/user-attachments/assets/49e45aaa-244b-4b3a-8167-d7344f0450c0)
 
 
