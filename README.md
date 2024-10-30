@@ -21,6 +21,9 @@ https://easyretro.io/tools/microsoft-teams-background-generator/
 ![image](https://github.com/user-attachments/assets/49e45aaa-244b-4b3a-8167-d7344f0450c0)
 
 
+
+
+
 ## Long Version
 ### 1. Download your Video
 Download the video you want as a background and save it to a location you remember.
